@@ -1,0 +1,10 @@
+# Rust
+/target
+Cargo.lock
+
+# macOS
+.DS_Store
+
+# IDE/Editor specific
+.idea/
+.vscode/
